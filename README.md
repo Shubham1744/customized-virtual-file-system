@@ -1,25 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/Shubham1744/customized-virtual-file-system/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Technologies used :
+- C,C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Description :
+- • This project provide all functionality to the programmer which is same as Linux file system.
+- • It provide necessary commands and System calls implemented of file system through Customised shell.
+- • In this project I’m implemented all necessary Data structures of file system like Incore Inode Table, File Table ,UAREA, User File Descriptor Table.
 
 **Bold** and _Italic_ and `Code` text
 

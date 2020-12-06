@@ -12,16 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - • It provide necessary commands and System calls implemented of file system through Customised shell.
 - • In this project I’m implemented all necessary Data structures of file system like Incore Inode Table, File Table ,UAREA, User File Descriptor Table.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shubham1744/customized-virtual-file-system/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
